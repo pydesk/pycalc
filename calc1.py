@@ -1,7 +1,7 @@
 import math
 print("python calculator")
 print("a little github project")
-print("written and coded by : webtech")
+print("written and coded by : pydesk python team")
 # end of introduction
 # start of function
 def add(): # the adding function
